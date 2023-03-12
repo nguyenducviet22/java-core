@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;GUI_JAVA.Labels&apos; to &apos;MyLabel&apos;&#x0D;&#x0A;- Original project: &apos;GUI_JAVA&apos;&#x0D;&#x0A;- Original element: &apos;GUI_JAVA.Labels&apos;&#x0D;&#x0A;- Renamed element: &apos;GUI_JAVA.MyLabel&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Labels&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;GUI_JAVA{Labels.java[Labels" matchStrategy="1" name="MyLabel" qualified="false" references="true" similarDeclarations="false" stamp="1668067063895" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;KEYBINDING.Game&apos; to &apos;MyKeyBinding&apos;&#x0D;&#x0A;- Original project: &apos;71. KEYBINDING_JAVA&apos;&#x0D;&#x0A;- Original element: &apos;KEYBINDING.Game&apos;&#x0D;&#x0A;- Renamed element: &apos;KEYBINDING.MyKeyBinding&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Game&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;KEYBINDING{Game.java[Game" matchStrategy="1" name="MyKeyBinding" qualified="false" references="true" similarDeclarations="false" stamp="1668643808402" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;GENERICS.MainGenerics&apos; to &apos;MainGenericsMethods&apos;&#x0D;&#x0A;- Original project: &apos;74. GENERICS_JAVA&apos;&#x0D;&#x0A;- Original element: &apos;GENERICS.MainGenerics&apos;&#x0D;&#x0A;- Renamed element: &apos;GENERICS.MainGenericsMethods&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MainGenerics&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;GENERICS{MainGenerics.java[MainGenerics" matchStrategy="1" name="MainGenericsMethods" qualified="false" references="true" similarDeclarations="false" stamp="1668642639437" textual="false" version="1.0"/>
+</session>

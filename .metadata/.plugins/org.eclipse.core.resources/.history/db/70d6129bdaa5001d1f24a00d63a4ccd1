@@ -1,0 +1,11 @@
+package model;
+
+public class CounterModel {
+	private int value;
+
+	public CounterModel() {
+		return 
+	}
+	
+	
+}
